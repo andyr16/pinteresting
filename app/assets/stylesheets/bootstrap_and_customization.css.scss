@@ -16,3 +16,32 @@ $navbar-height:		 45px;
 	font-weight: bold;
 }
 
+.images {
+	max-width: 100%;
+	
+}
+
+.img-overlay {
+    position: relative;
+    max-width: 100%; //whatever your max-width should be 
+}
+
+.post-content {
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+
+.thumbnail {
+    position:relative;
+    opacity: .85;
+    text-align:center;
+    align-content: center;
+}
+
+.h1special {
+	color: #FFFFFF;
+}
+
+
